@@ -1,0 +1,1 @@
+import{_ as l,A as o,B as c,C as e,X as t}from"./BRRYZBnf.js";const a={},r={id:"list",class:"flex"},n={class:"flex-1 h-full"},i={class:"flex-5 h-full"};function _(s,d){return o(),c("div",r,[e("div",n,[t(s.$slots,"left")]),e("div",i,[t(s.$slots,"right")])])}const h=l(a,[["render",_]]);export{h as default};

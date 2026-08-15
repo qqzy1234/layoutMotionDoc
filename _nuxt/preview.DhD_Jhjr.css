@@ -1,0 +1,1 @@
+.cursor[data-v-a76c7759]:after{transform-origin:50%;content:"";width:2px;height:1em;display:inline-block;display:var(--showCursor);background-color:#333;margin-left:4px;animation:LM-cursorBlink 1s infinite}@keyframes LM-cursorBlink{0%,to{transform:scaleY(1);opacity:1}50%{transform:scaleY(0);opacity:0}}
